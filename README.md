@@ -280,6 +280,7 @@ Contributions are welcome! Please feel free to submit issues, feature requests, 
 ## 📝 License
 
 This project is released under the MIT License. See LICENSE file for details.
+> Inspired from [BamParser by Ektoplasma](https://github.com/Ektoplasma/BamParser)
 
 ## ⚠️ Disclaimer
 
